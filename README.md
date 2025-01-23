@@ -11,7 +11,7 @@ A kanban board view available for milestones. Allow for flexible changing of tru
  - **State Management:** Redux (RTK?)
  - **Data Fetching:** React Query (TanQuery)
  - **Type Checking:** TypeScript
- - **Database:** *TBD*, SQL, MongoDB, or Redis. Will have to play around with this I think.
+ - **Database:** *TBD*, SQLite, MongoDB, or Redis. Will have to play around with this I think.
  - **Styling:** TailwindCSS
  - **Formatting:** Prettier
  - **Linting:** ESLint
